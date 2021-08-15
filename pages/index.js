@@ -9,7 +9,7 @@ export default function Home() {
   <Toolbar />
 
       <div className={styles.main}>
-        <h1>James Pilkington's News App</h1>
+        <h1>James Pilkington`&#39;`s News App</h1>
 
         <h3>Your one stop shop for the latest news articles</h3>
       </div>
